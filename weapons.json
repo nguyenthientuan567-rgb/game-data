@@ -7,7 +7,7 @@
     { "id": "a_magnum", "name": "Đạn Ngắm .300 Magnum", "damage": 120, "price": 10000, "bulletSpeed": 950, "effectiveRange": 250 }
   ],
   "guns": [
-    { "id": "g_pistol", "name": "Súng Lục G18", "price": 0, "ammoIds": ["a_9mm"], "fireRate": 400, "reqEx": 0 },
+    { "id": "g_pistol", "name": "Súng Lục ai hoi G18", "price": 0, "ammoIds": ["a_9mm"], "fireRate": 400, "reqEx": 0 },
     { "id": "g_m4a1", "name": "M4A1 Quân Dụng", "price": 150000, "ammoIds": ["a_556"], "fireRate": 600, "reqEx": 50 },
     { "id": "g_ak47", "name": "AK-47 Hỏa Lực", "price": 300000, "ammoIds": ["a_762"], "fireRate": 520, "reqEx": 100 },
     { "id": "g_m1014", "name": "Shotgun M1014", "price": 250000, "ammoIds": ["a_12gauge"], "fireRate": 200, "reqEx": 80 },
